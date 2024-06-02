@@ -13,10 +13,10 @@ HOW TO PLAY:
 <br />
 GAME FEATURES:
 <br />
-> Randomized Sequence of LEDS during each play
-> Victory song - 'Pirates of the Carribean Theme'
-> Different beeps for completing level and wrong sequence
-> Improved button input (less misclicks)
+1. Randomized Sequence of LEDS during each play <br />
+2. Victory song - 'Pirates of the Carribean Theme' <br />
+3. Different beeps for completing level and wrong sequence <br />
+4. Improved button input (less misclicks) <br />
 <br />
 You may download the source code for this project.
 (Please make sure to change the arduino board pins according to your circuit)
